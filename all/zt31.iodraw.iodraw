@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uozG44IQ9_gfGr_25yEr">
-    <mxGraphModel dx="1797" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2175" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-53" value="电量累计统计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="900" y="140" width="500" height="500" as="geometry" />
+          <mxGeometry x="770" y="150" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-1" value="输入数据&#xa;典型日风光/负荷标幺曲线&#xa;设备额定参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="20" width="244" height="84" as="geometry" />
@@ -35,22 +35,22 @@
           <mxGeometry x="480" y="229" width="211" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-5" value="逐时平衡方程&#xa;P_total = P_renew + P_buy - P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="325" y="449" width="252" height="84" as="geometry" />
+          <mxGeometry x="230" y="410" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-6" value="购售电互斥决策&#xa;max函数判定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="369" y="551" width="172" height="66" as="geometry" />
+          <mxGeometry x="530" y="419" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-8" value="日用电量 E_use" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="976" y="295" width="170" height="49" as="geometry" />
+          <mxGeometry x="846" y="305" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-9" value="新能源发电量 E_ren" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="960.5" y="400" width="201" height="49" as="geometry" />
+          <mxGeometry x="830.5" y="410" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-10" value="网购电量 E_buy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1196" y="400" width="171" height="49" as="geometry" />
+          <mxGeometry x="1066" y="410" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-11" value="上网电量 E_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1196" y="290" width="170" height="49" as="geometry" />
+          <mxGeometry x="1066" y="300" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-12" value="绿电指标计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1437" y="856" width="156" height="49" as="geometry" />
