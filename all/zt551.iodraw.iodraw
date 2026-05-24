@@ -38,7 +38,7 @@
           <mxGeometry x="1135.5" y="180" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-9" value="约束条件&#xa;功率平衡/机组限值/备用需求/弃电限值" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1003.5" y="310" width="250" height="84" as="geometry" />
+          <mxGeometry x="1003.5" y="310" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-11" value="弃电率&#xa;全年弃电量/理论发电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="480" y="620" width="228" height="66" as="geometry" />
