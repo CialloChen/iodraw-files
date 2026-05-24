@@ -32,7 +32,7 @@
           <mxGeometry x="670" y="294" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-7" value="决策变量&#xa;P_g,i(t), P_curt(t)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="190" width="189" height="66" as="geometry" />
+          <mxGeometry x="1020" y="190" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-8" value="目标函数&#xa;燃料成本+备用成本+弃电惩罚" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="988" y="288" width="253" height="84" as="geometry" />
