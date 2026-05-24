@@ -37,18 +37,6 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="675" y="440" width="147" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-10" value="典型日求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="204" y="1066" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-11" value="五种产量方案&#xa;72/63/54/45/36 t/d" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="171" y="1165" width="206" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-12" value="最优开机时段&#xa;避峰就谷聚集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="196" y="1281" width="156" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-13" value="甘特图与功率曲线输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="164" y="1398" width="220" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-14" value="24场景全年扩展" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="187" y="1496" width="173" height="49" as="geometry" />
         </mxCell>
@@ -113,29 +101,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-9" target="PqKJCWfG-1twxdppCMA0-10">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="PqKJCWfG-1twxdppCMA0-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-10" target="PqKJCWfG-1twxdppCMA0-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-11" target="PqKJCWfG-1twxdppCMA0-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-12" target="PqKJCWfG-1twxdppCMA0-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-13" target="PqKJCWfG-1twxdppCMA0-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="274" y="1447.0000000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-14" target="PqKJCWfG-1twxdppCMA0-15">
@@ -188,6 +157,33 @@
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="560" width="390" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-46" value="典型日求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="695" y="559" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-47" value="五种产量方案&#xa;72/63/54/45/36 t/d" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="662" y="658" width="206" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-48" value="最优开机时段&#xa;避峰就谷聚集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="687" y="774" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-49" value="甘特图与功率曲线输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="655" y="891" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="PqKJCWfG-1twxdppCMA0-46" target="PqKJCWfG-1twxdppCMA0-47" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" source="PqKJCWfG-1twxdppCMA0-47" target="PqKJCWfG-1twxdppCMA0-48" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" source="PqKJCWfG-1twxdppCMA0-48" target="PqKJCWfG-1twxdppCMA0-49" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
