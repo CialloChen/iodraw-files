@@ -29,7 +29,7 @@
           <mxGeometry x="480" y="310" width="180" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-5" value="含3台火电机组&#xa;经济调度模型" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="678" y="328" width="180" height="66" as="geometry" />
+          <mxGeometry x="678" y="328" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-7" value="决策变量&#xa;P_g,i(t), P_curt(t)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1020" y="190" width="189" height="66" as="geometry" />
