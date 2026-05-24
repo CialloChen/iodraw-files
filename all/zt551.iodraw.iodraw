@@ -50,13 +50,13 @@
           <mxGeometry x="792" y="645" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-14" value="碳排放强度&#xa;火电排放系数加权" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="910" width="188" height="66" as="geometry" />
+          <mxGeometry x="988" y="752" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-15" value="火电平均出力&#xa;调峰压力指标" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1110" y="645" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-16" value="渗透率扫描求解&#xa;8760h全年调度" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="862" y="1070" width="172" height="66" as="geometry" />
+          <mxGeometry x="827" y="870" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-17" value="系统影响分析" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-657" y="645" width="156" height="49" as="geometry" />
@@ -81,11 +81,6 @@
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-24" value="创新氢氨储能&#xa;参与电力市场设计" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="912" y="1790" width="188" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-16" target="6tWixbPCyPsko_Agr3XY-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-17" target="6tWixbPCyPsko_Agr3XY-18">
           <mxGeometry relative="1" as="geometry">
