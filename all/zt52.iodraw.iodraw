@@ -166,10 +166,10 @@
           <mxGeometry x="183.5" y="650" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-56" value="状态变量定义&#xa;全满足/部分满足/全不满足" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="750" width="253" height="66" as="geometry" />
+          <mxGeometry x="200" y="760" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-57" value="全年合规天数统计&#xa;成本分布核密度估计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="225" y="900" width="204" height="66" as="geometry" />
+          <mxGeometry x="225" y="866" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="PqKJCWfG-1twxdppCMA0-54" target="PqKJCWfG-1twxdppCMA0-55" parent="1">
           <mxGeometry relative="1" as="geometry">
