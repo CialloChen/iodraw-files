@@ -76,10 +76,10 @@
           <mxGeometry x="28.5" y="560" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-55" value="6风电×4光伏=24场景&#xa;各15天" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="176" y="634" width="206" height="66" as="geometry" />
+          <mxGeometry x="50" y="650" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-56" value="状态变量定义&#xa;全满足/部分满足/全不满足" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="153.5" y="734" width="253" height="66" as="geometry" />
+          <mxGeometry x="275.5" y="650" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-57" value="全年合规天数统计&#xa;成本分布核密度估计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="178" y="860" width="204" height="66" as="geometry" />
