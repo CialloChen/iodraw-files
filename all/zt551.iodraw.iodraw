@@ -22,7 +22,7 @@
         <mxCell id="6tWixbPCyPsko_Agr3XY-1" value="输入条件&#xa;园区等值新能源聚合体&#xa;接入区域电网" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="796" y="-10" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-3" value="渗透率定义&#xa;γ=(P_w+P_pv)/L_max" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="6tWixbPCyPsko_Agr3XY-3" value="渗透率定义&#xa;γ=(P_w+P_pv)/L_max" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="573.5" y="188" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-4" value="等值缩放&#xa;保持40:64比例&#xa;γ∈[0.2,1.2]扫描" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
