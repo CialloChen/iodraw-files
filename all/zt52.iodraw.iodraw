@@ -13,9 +13,6 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-44" value="目标函数可分性分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="560" y="143" width="500" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-43" target="PqKJCWfG-1twxdppCMA0-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-43" value="离散启停优化模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="143" width="500" height="380" as="geometry" />
         </mxCell>
@@ -35,10 +32,10 @@
           <mxGeometry x="710" y="180" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-8" value="贪心精确最优证明&#xa;交换论证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="710" y="300" width="188" height="66" as="geometry" />
+          <mxGeometry x="710" y="300" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="666.5" y="399" width="147" height="66" as="geometry" />
+          <mxGeometry x="730.5" y="390" width="147" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-19" value="36t/d:成本最低914元/t&#xa;但仅45天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="76" y="1060" width="200" height="100" as="geometry" />
