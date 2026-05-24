@@ -29,13 +29,13 @@
           <mxGeometry x="325" y="20" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-3" value="逐时功率计算&#xa;P_load=pu×6MW&#xa;P_wind=pu×40MW&#xa;P_pv=pu×64MW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="180" width="188" height="101" as="geometry" />
+          <mxGeometry x="349" y="190" width="188" height="101" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-4" value="电氢氨刚性基荷&#xa;P_HN3=20.75MW恒定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="317" y="330" width="211" height="66" as="geometry" />
+          <mxGeometry x="337.5" y="340" width="211" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-5" value="逐时平衡方程&#xa;P_total = P_renew + P_buy - P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="296.5" y="440" width="252" height="84" as="geometry" />
+          <mxGeometry x="317" y="450" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-6" target="BSvBzQ-CNaPwpYHtXqsf-7">
           <mxGeometry relative="1" as="geometry" />
