@@ -11,10 +11,10 @@
           <mxGeometry x="496" y="154" width="236" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-3" value="问题二&#xa;离散启停调节优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="270" width="188" height="66" as="geometry" />
+          <mxGeometry x="760" y="154" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-4" value="问题三&#xa;连续功率调节优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750" y="380" width="188" height="66" as="geometry" />
+          <mxGeometry x="970" y="160" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-5" value="问题四&#xa;离网运行与储能配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="860" y="480" width="204" height="66" as="geometry" />
