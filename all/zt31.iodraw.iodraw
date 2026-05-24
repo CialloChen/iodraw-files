@@ -64,7 +64,7 @@
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-12" value="绿电指标与吨氨成本&#xa;定量评估政策合规性" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1020" y="390" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RxJmu4LLCR8VLa-qvXRP-13" value="模型评价与改进&#xa;灵敏度/鲁棒性分析" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-13" value="模型评价与改进&#xa;灵敏度/鲁棒性分析" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1020" y="500" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-1" target="RxJmu4LLCR8VLa-qvXRP-2">
