@@ -4,19 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;width=70;" edge="1" parent="1">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=arrow;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="705" y="389.7899999999999" as="sourcePoint" />
             <mxPoint x="900" y="389.7899999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="389.79" />
-              <mxPoint x="790" y="389.79" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-71" value="&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;购售电互斥决策&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;max函数判定&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSvBzQ-CNaPwpYHtXqsf-67">
-          <mxGeometry x="0.08" relative="1" as="geometry">
-            <mxPoint x="-20" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-66" value="功率平衡模型数学建模" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
@@ -53,7 +44,7 @@
           <mxGeometry x="317" y="450" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-6" value="购售电互斥决策&#xa;max函数判定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="610" width="172" height="66" as="geometry" />
+          <mxGeometry x="710" y="450" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-8" value="日用电量 E_use" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="976" y="295" width="170" height="49" as="geometry" />
