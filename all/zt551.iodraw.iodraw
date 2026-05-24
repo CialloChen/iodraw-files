@@ -139,13 +139,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.05;rounded=0;strokeColor=default;" edge="1" parent="1" target="6tWixbPCyPsko_Agr3XY-57">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1389.499999999999" y="1180" as="sourcePoint" />
-            <mxPoint x="566" y="1976" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
