@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-17" value="购电费用&#xa;分时电价累加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="728" width="156" height="66" as="geometry" />
+          <mxGeometry x="232.5" y="728" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-19" target="BSvBzQ-CNaPwpYHtXqsf-20">
           <mxGeometry relative="1" as="geometry" />
