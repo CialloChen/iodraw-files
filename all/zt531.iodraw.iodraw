@@ -74,7 +74,7 @@
           <mxGeometry x="690" y="840" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-15" value="效率优先分配&#xa;PEM利用率84.4%&amp;lt;&#xa;碱性降至64.2%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="817" y="972" width="200" height="84" as="geometry" />
+          <mxGeometry x="817" y="972" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-16" value="成本波动性&#xa;标准差较离散↓7.1%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="950" y="840" width="200" height="100" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="284" y="981" width="157" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-20" value="核心价值&#xa;运行平滑+储能协同基础" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="349" y="840" width="228" height="66" as="geometry" />
+          <mxGeometry x="349" y="840" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-1" target="qIsOwRziGY4ZYoRnFHQ9-2">
           <mxGeometry relative="1" as="geometry">
