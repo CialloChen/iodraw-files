@@ -32,7 +32,7 @@
           <mxGeometry x="671" y="320" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="675" y="440" width="147" height="66" as="geometry" />
+          <mxGeometry x="655" y="399" width="147" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-18" value="权衡分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="265.5" y="990" width="124" height="49" as="geometry" />
@@ -45,16 +45,6 @@
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-21" value="结论：经济性与合规性&#xa;显著帕累托权衡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="1256" width="220" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-7" target="PqKJCWfG-1twxdppCMA0-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-8" target="PqKJCWfG-1twxdppCMA0-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-18" target="PqKJCWfG-1twxdppCMA0-19">
           <mxGeometry relative="1" as="geometry">
