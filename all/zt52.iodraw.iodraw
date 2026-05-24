@@ -37,18 +37,6 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="675" y="440" width="147" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-14" value="24场景全年扩展" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="187" y="1496" width="173" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-15" value="6风电×4光伏=24场景&#xa;各15天" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1595" width="206" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-16" value="状态变量定义&#xa;全满足/部分满足/全不满足" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="147" y="1711" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-17" value="全年合规天数统计&#xa;成本分布核密度估计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="172" y="1827" width="204" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-18" value="权衡分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212" y="1944" width="124" height="49" as="geometry" />
         </mxCell>
@@ -101,30 +89,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="PqKJCWfG-1twxdppCMA0-14">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="PqKJCWfG-1twxdppCMA0-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="274" y="1447.0000000000005" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-14" target="PqKJCWfG-1twxdppCMA0-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-15" target="PqKJCWfG-1twxdppCMA0-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-16" target="PqKJCWfG-1twxdppCMA0-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-17" target="PqKJCWfG-1twxdppCMA0-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="274" y="1893" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-18" target="PqKJCWfG-1twxdppCMA0-19">
