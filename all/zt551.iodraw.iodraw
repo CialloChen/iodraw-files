@@ -16,7 +16,7 @@
         <mxCell id="6tWixbPCyPsko_Agr3XY-54" value="优化模型建立" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="930" y="130" width="400" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-53" value="渗透率定义与系统模型" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="6tWixbPCyPsko_Agr3XY-53" value="渗透率定义与系统模型" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="462" y="130" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-1" value="输入条件&#xa;园区等值新能源聚合体&#xa;接入区域电网" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
