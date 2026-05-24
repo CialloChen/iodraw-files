@@ -28,11 +28,8 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-53" value="电量累计统计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="752" y="140" width="500" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-1" target="BSvBzQ-CNaPwpYHtXqsf-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-1" value="输入数据&#xa;典型日风光/负荷标幺曲线&#xa;设备额定参数" style="whiteSpace=wrap;strokeWidth=2;container=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-10" width="200" height="100" as="geometry">
+          <mxGeometry x="627" y="-10" width="200" height="100" as="geometry">
             <mxRectangle x="333" y="10" width="220" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -85,7 +82,7 @@
           <mxGeometry x="477.5" y="711" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="349.5" y="870" width="200" height="100" as="geometry" />
+          <mxGeometry x="627" y="900" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-18" target="BSvBzQ-CNaPwpYHtXqsf-20">
           <mxGeometry relative="1" as="geometry" />
