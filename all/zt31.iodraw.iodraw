@@ -32,7 +32,7 @@
           <mxGeometry x="230" y="210" width="200" height="101" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-4" value="电氢氨刚性基荷&#xa;P_HN3=20.75MW恒定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="229" width="211" height="66" as="geometry" />
+          <mxGeometry x="480" y="229" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-5" value="逐时平衡方程&#xa;P_total = P_renew + P_buy - P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="252" height="84" as="geometry" />
