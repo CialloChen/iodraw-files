@@ -7,8 +7,14 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="980" width="390" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-44" target="PqKJCWfG-1twxdppCMA0-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-44" value="目标函数可分性分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="390" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-43" target="PqKJCWfG-1twxdppCMA0-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-43" value="离散启停优化模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="140" y="140" width="390" height="380" as="geometry" />
@@ -75,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;典型日求解&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="570" y="560" width="390" height="380" as="geometry" />
+          <mxGeometry x="560" y="560" width="390" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-47" value="五种产量方案&#xa;72/63/54/45/36 t/d" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="662" y="658" width="206" height="66" as="geometry" />
