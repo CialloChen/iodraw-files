@@ -46,7 +46,7 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-12" value="CBC求解器&#xa;逐场景求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="913" y="707" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-13" value="24场景结果分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-13" value="24场景结果分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="927" y="890" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-14" value="削峰填谷特征&#xa;谷时满发/峰时降负荷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
