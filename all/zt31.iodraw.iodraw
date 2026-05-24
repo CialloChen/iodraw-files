@@ -59,7 +59,7 @@
           <mxGeometry x="900" y="786" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-15" value="上网比例 η_grid&#xa;新能源外送占比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="670" width="174" height="66" as="geometry" />
+          <mxGeometry x="1043" y="654" width="174" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-17" value="购电费用&#xa;分时电价累加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="221" y="720" width="156" height="66" as="geometry" />
@@ -72,30 +72,6 @@
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="1000" width="204" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="775" y="769" />
-            </Array>
-            <mxPoint x="920" y="659.69" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1037" y="769" />
-            </Array>
-            <mxPoint x="1005.9591836734699" y="669" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1276" y="769" />
-            </Array>
-            <mxPoint x="1076" y="659.2" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-18" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220.5" y="590" width="156" height="66" as="geometry" />
