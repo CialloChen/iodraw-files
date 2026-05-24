@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-52" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;24场景结果分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="670" y="750" width="500" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-45" value="目标函数&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 18px;&quot;&gt;最小化日总成本" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="670" y="378" width="500" height="350" as="geometry" />
         </mxCell>
@@ -59,16 +62,16 @@
           <mxGeometry x="933" y="580" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-13" value="24场景结果分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="870" y="770" width="173" height="49" as="geometry" />
+          <mxGeometry x="861.5" y="800" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-14" value="削峰填谷特征&#xa;谷时满发/峰时降负荷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="583" y="878" width="212" height="66" as="geometry" />
+          <mxGeometry x="615" y="990" width="212" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-15" value="效率优先分配&#xa;PEM利用率84.4%&amp;lt;&#xa;碱性降至64.2%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="845" y="869" width="206" height="84" as="geometry" />
+          <mxGeometry x="845" y="972" width="206" height="84" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-16" value="成本波动性&#xa;标准差较离散↓7.1%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="878" width="196" height="66" as="geometry" />
+          <mxGeometry x="1060" y="990" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-17" value="与问题二对比" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="923" y="1123" width="156" height="49" as="geometry" />
@@ -154,9 +157,6 @@
               <mxPoint x="1247" y="1197" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-52" value="目标函数&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 18px;&quot;&gt;最小化日总成本" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="670" y="750" width="500" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
