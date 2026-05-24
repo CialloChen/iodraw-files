@@ -74,7 +74,7 @@
           <mxGeometry x="477.5" y="564" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-20" value="吨氨成本&#xa;C_ton = 净费用/36" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="481" y="728" width="193" height="66" as="geometry" />
+          <mxGeometry x="481" y="728" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="870" width="204" height="66" as="geometry" />
