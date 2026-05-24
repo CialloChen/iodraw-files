@@ -144,10 +144,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-18">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-75" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1639.5" y="1404.19" as="sourcePoint" />
+            <mxPoint x="1600" y="1410" as="sourcePoint" />
             <mxPoint x="1469.5" y="1462.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
