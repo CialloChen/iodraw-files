@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fOxCzRC-ExsTCp74cvHH">
-    <mxGraphModel dx="3615" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4442" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="430" y="1531" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="600" width="400" height="400" as="geometry" />
+          <mxGeometry x="-779" y="555" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="462" y="620" width="400" height="400" as="geometry" />
+          <mxGeometry x="1032" y="658.5" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="930" y="130" width="400" height="400" as="geometry" />
@@ -47,34 +47,34 @@
           <mxGeometry x="1003.5" y="462.5" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-10" value="评价指标体系" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="583" y="690" width="156" height="49" as="geometry" />
+          <mxGeometry x="1153" y="728.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-11" value="弃电率&#xa;全年弃电量/理论发电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="30" y="788" width="228" height="66" as="geometry" />
+          <mxGeometry x="600" y="826.5" width="228" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-12" value="备用不足率&#xa;未满足备用时段占比" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="308" y="788" width="204" height="66" as="geometry" />
+          <mxGeometry x="878" y="826.5" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-13" value="平均供电成本&#xa;总成本/总负荷电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="562" y="788" width="196" height="66" as="geometry" />
+          <mxGeometry x="1132" y="826.5" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-14" value="碳排放强度&#xa;火电排放系数加权" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="809" y="788" width="188" height="66" as="geometry" />
+          <mxGeometry x="1379" y="826.5" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-15" value="火电平均出力&#xa;调峰压力指标" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1047" y="788" width="156" height="66" as="geometry" />
+          <mxGeometry x="1617" y="826.5" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-16" value="渗透率扫描求解&#xa;8760h全年调度" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="568" y="905" width="172" height="66" as="geometry" />
+          <mxGeometry x="1138" y="943.5" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-17" value="系统影响分析" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1313" y="690" width="156" height="49" as="geometry" />
+          <mxGeometry x="-657" y="645" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-18" value="有利影响&#xa;碳排放显著降低&#xa;推动灵活性资源投资" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="797" width="204" height="84" as="geometry" />
+          <mxGeometry x="-820" y="752" width="204" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-19" value="不利影响&#xa;γ大于0.8后弃电率与成本快速上升&#xa;火电深度调峰压力增大" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1404" y="788" width="251" height="101" as="geometry" />
+          <mxGeometry x="-566" y="743" width="251" height="101" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-20" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="582" y="1683" width="124" height="49" as="geometry" />
@@ -131,22 +131,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-9" target="6tWixbPCyPsko_Agr3XY-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-10" target="6tWixbPCyPsko_Agr3XY-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="144" y="763" />
+              <mxPoint x="714" y="801.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-10" target="6tWixbPCyPsko_Agr3XY-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="763" />
+              <mxPoint x="980" y="801.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -158,49 +153,49 @@
         <mxCell id="6tWixbPCyPsko_Agr3XY-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-10" target="6tWixbPCyPsko_Agr3XY-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="903" y="763" />
+              <mxPoint x="1473" y="801.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-10" target="6tWixbPCyPsko_Agr3XY-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1125" y="763" />
+              <mxPoint x="1695" y="801.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.35;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-11" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="144" y="880" />
+              <mxPoint x="714" y="918.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.18;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-12" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="880" />
+              <mxPoint x="980" y="918.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.52;entryY=-0.01;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-13" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="661" y="880" />
+              <mxPoint x="1231" y="918.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.19;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-14" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="903" y="880" />
+              <mxPoint x="1473" y="918.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.33;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-15" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1125" y="880" />
+              <mxPoint x="1695" y="918.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -212,14 +207,14 @@
         <mxCell id="6tWixbPCyPsko_Agr3XY-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-17" target="6tWixbPCyPsko_Agr3XY-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1252" y="763" />
+              <mxPoint x="-718" y="718" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-17" target="6tWixbPCyPsko_Agr3XY-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1530" y="763" />
+              <mxPoint x="-440" y="718" />
             </Array>
           </mxGeometry>
         </mxCell>
