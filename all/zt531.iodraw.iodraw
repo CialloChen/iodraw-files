@@ -38,7 +38,7 @@
           <mxGeometry x="712.06" y="480" width="187.88" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-10" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="728" y="614" width="200" height="66" as="geometry" />
+          <mxGeometry x="712.06" y="614" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-11" value="运维费用&#xa;碱性0.1+PEM0.15+合成氨1元/t" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="933" y="480" width="200" height="100" as="geometry" />
