@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PqKJCWfG-1twxdppCMA0-62" value="权衡分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="104" y="980" width="500" height="380" as="geometry" />
+          <mxGeometry x="40" y="980" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-44" target="PqKJCWfG-1twxdppCMA0-45">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-43" value="离散启停优化模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="140" y="140" width="500" height="380" as="geometry" />
+          <mxGeometry x="30" y="143" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-1" value="输入条件&#xa;产能72t/d 离散ON/OFF&#xa;五种日产量方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="213" width="226" height="84" as="geometry" />
@@ -41,25 +41,25 @@
           <mxGeometry x="666.5" y="399" width="147" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-19" value="36t/d:成本最低914元/t&#xa;但仅45天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1060" width="200" height="100" as="geometry" />
+          <mxGeometry x="76" y="1060" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-20" value="72t/d:成本最高5948元/t&#xa;全年360天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="357" y="1060" width="203" height="100" as="geometry" />
+          <mxGeometry x="293" y="1060" width="203" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-21" value="结论：经济性与合规性&#xa;显著帕累托权衡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1256" width="220" height="66" as="geometry" />
+          <mxGeometry x="180" y="1256" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.13;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-19" target="PqKJCWfG-1twxdppCMA0-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="213" y="1231" />
+              <mxPoint x="149" y="1231" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.86;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-20" target="PqKJCWfG-1twxdppCMA0-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="494" y="1231" />
+              <mxPoint x="430" y="1231" />
             </Array>
           </mxGeometry>
         </mxCell>
