@@ -50,7 +50,7 @@
           <mxGeometry x="626" y="920" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-13" value="平均供电成本&#xa;总成本/总负荷电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="798" y="780" width="196" height="66" as="geometry" />
+          <mxGeometry x="824" y="700" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-14" value="碳排放强度&#xa;火电排放系数加权" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1036" y="910" width="188" height="66" as="geometry" />
@@ -122,13 +122,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="454" y="890" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.18;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-12" target="6tWixbPCyPsko_Agr3XY-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
