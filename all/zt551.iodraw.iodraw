@@ -56,7 +56,7 @@
           <mxGeometry x="970" y="647" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-15" value="火电平均出力&#xa;调峰压力指标" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1142" y="515" width="156" height="66" as="geometry" />
+          <mxGeometry x="1142" y="515" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-16" value="渗透率扫描求解&#xa;8760h全年调度" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="810" y="765" width="172" height="66" as="geometry" />
