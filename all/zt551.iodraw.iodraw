@@ -20,7 +20,7 @@
           <mxGeometry x="462" y="130" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-1" value="输入条件&#xa;园区等值新能源聚合体&#xa;接入区域电网" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="792" y="-10" width="220" height="84" as="geometry" />
+          <mxGeometry x="786" y="-40" width="220" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-3" value="渗透率定义&#xa;γ=(P_w+P_pv)/L_max" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="480" y="212.5" width="216" height="66" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="970" y="752" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-15" value="火电平均出力&#xa;调峰压力指标" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="645" width="156" height="66" as="geometry" />
+          <mxGeometry x="1142" y="620" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-16" value="渗透率扫描求解&#xa;8760h全年调度" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="810" y="870" width="172" height="66" as="geometry" />
