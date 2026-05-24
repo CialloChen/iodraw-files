@@ -26,7 +26,7 @@
           <mxGeometry x="752" y="140" width="500" height="300" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-1" value="输入数据&#xa;典型日风光/负荷标幺曲线&#xa;设备额定参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="10" width="244" height="84" as="geometry" />
+          <mxGeometry x="333" y="10" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-3" value="逐时功率计算&#xa;P_load=pu×6MW&#xa;P_wind=pu×40MW&#xa;P_pv=pu×64MW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="200" height="100" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="469.5" y="720" width="193" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1000" width="204" height="66" as="geometry" />
+          <mxGeometry x="347.5" y="870" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-18" target="BSvBzQ-CNaPwpYHtXqsf-20">
           <mxGeometry relative="1" as="geometry" />
