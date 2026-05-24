@@ -28,6 +28,12 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-7" target="BSvBzQ-CNaPwpYHtXqsf-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-7" target="BSvBzQ-CNaPwpYHtXqsf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-7" target="BSvBzQ-CNaPwpYHtXqsf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-7" value="电量累计统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1209" y="180" width="156" height="49" as="geometry" />
         </mxCell>
