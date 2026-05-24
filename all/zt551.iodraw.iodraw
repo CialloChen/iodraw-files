@@ -44,34 +44,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-11" value="弃电率&#xa;全年弃电量/理论发电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="480" y="515" width="200" height="100" as="geometry" />
+          <mxGeometry x="491" y="515" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-12" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-12" value="备用不足率&#xa;未满足备用时段占比" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="626" y="647" width="200" height="100" as="geometry" />
+          <mxGeometry x="637" y="647" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-13" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-13" value="平均供电成本&#xa;总成本/总负荷电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="796" y="515" width="200" height="100" as="geometry" />
+          <mxGeometry x="807" y="515" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-14" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-14" value="碳排放强度&#xa;火电排放系数加权" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="970" y="647" width="200" height="100" as="geometry" />
+          <mxGeometry x="981" y="647" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-15" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-15" value="火电平均出力&#xa;调峰压力指标" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="515" width="200" height="100" as="geometry" />
+          <mxGeometry x="1101" y="515" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-16" value="渗透率扫描求解&#xa;8760h全年调度" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="796" y="780" width="200" height="100" as="geometry" />
+          <mxGeometry x="807" y="780" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-18" value="有利影响&#xa;碳排放显著降低&#xa;推动灵活性资源投资" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="538.5" y="1000" width="250" height="100" as="geometry" />
