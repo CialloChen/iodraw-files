@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="140" width="1023" height="520" as="geometry" />
+          <mxGeometry x="-50" y="134" width="1023" height="520" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-61" target="BSvBzQ-CNaPwpYHtXqsf-21">
           <mxGeometry relative="1" as="geometry" />
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-1" value="输入数据&#xa;典型日风光/负荷标幺曲线&#xa;设备额定参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="20" width="244" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-2" value="功率平衡模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="369" y="154" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-3" value="逐时功率计算&#xa;P_load=pu×6MW&#xa;P_wind=pu×40MW&#xa;P_pv=pu×64MW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="353" y="253" width="188" height="101" as="geometry" />
@@ -100,14 +97,10 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="1458" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-1" target="BSvBzQ-CNaPwpYHtXqsf-2">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-2" target="BSvBzQ-CNaPwpYHtXqsf-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="447.00000000000045" y="203" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-3" target="BSvBzQ-CNaPwpYHtXqsf-4">
