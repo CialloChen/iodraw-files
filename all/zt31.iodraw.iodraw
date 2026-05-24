@@ -14,13 +14,13 @@
           <mxGeometry x="630" y="270" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-4" value="问题三&#xa;连续功率调节优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="768" y="386" width="188" height="66" as="geometry" />
+          <mxGeometry x="750" y="380" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-5" value="问题四&#xa;离网运行与储能配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="879" y="503" width="204" height="66" as="geometry" />
+          <mxGeometry x="860" y="480" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-6" value="问题五&#xa;高渗透率系统影响与政策建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="619" width="252" height="84" as="geometry" />
+          <mxGeometry x="989" y="610" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-7" value="揭示风光-负荷时序错配&#xa;建立功率平衡基准" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="753" width="226" height="66" as="geometry" />
