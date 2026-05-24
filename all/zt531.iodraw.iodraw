@@ -29,10 +29,10 @@
           <mxGeometry x="383" y="440" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-6" value="购售电互斥&#xa;大M法+二进制变量z(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="149" y="580" width="200" height="66" as="geometry" />
+          <mxGeometry x="149" y="580" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-7" value="日产量约束&#xa;Σq(t)=D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="413" y="580" width="140" height="66" as="geometry" />
+          <mxGeometry x="413" y="580" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-8" value="目标函数&#xa;最小化日总成本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="913" y="430" width="172" height="66" as="geometry" />
