@@ -62,13 +62,13 @@
           <mxGeometry x="933" y="580" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-14" value="削峰填谷特征&#xa;谷时满发/峰时降负荷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="615" y="990" width="212" height="66" as="geometry" />
+          <mxGeometry x="690" y="840" width="212" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-15" value="效率优先分配&#xa;PEM利用率84.4%&amp;lt;&#xa;碱性降至64.2%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="845" y="972" width="206" height="84" as="geometry" />
+          <mxGeometry x="817" y="972" width="206" height="84" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-16" value="成本波动性&#xa;标准差较离散↓7.1%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="990" width="196" height="66" as="geometry" />
+          <mxGeometry x="950" y="840" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-17" value="与问题二对比" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="923" y="1123" width="156" height="49" as="geometry" />
@@ -90,30 +90,6 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-2" target="qIsOwRziGY4ZYoRnFHQ9-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="qIsOwRziGY4ZYoRnFHQ9-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="689" y="844" />
-            </Array>
-            <mxPoint x="861.5" y="840.6700000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="qIsOwRziGY4ZYoRnFHQ9-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="948" y="844" />
-            </Array>
-            <mxPoint x="944.54" y="849" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="qIsOwRziGY4ZYoRnFHQ9-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1199" y="844" />
-            </Array>
-            <mxPoint x="1034.5000000000005" y="842.1399999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-14" target="qIsOwRziGY4ZYoRnFHQ9-17">
