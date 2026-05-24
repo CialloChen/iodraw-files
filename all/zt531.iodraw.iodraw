@@ -23,10 +23,10 @@
           <mxGeometry x="270" y="230" width="185" height="101" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-4" value="功率平衡约束&#xa;含常规负荷与制氢氨" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="138.5" y="440" width="204" height="66" as="geometry" />
+          <mxGeometry x="138.5" y="440" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-5" value="氢气物料平衡&#xa;0.7x_alk+0.8x_pem=10q" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="200" height="100" as="geometry" />
+          <mxGeometry x="380" y="440" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-6" value="购售电互斥&#xa;大M法+二进制变量z(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="580" width="217" height="66" as="geometry" />
