@@ -80,24 +80,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.21;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-9" target="qIsOwRziGY4ZYoRnFHQ9-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="777" y="682" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.43;entryY=0;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-10" target="qIsOwRziGY4ZYoRnFHQ9-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="967" y="682" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.24;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-11" target="qIsOwRziGY4ZYoRnFHQ9-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1218" y="682" />
             </Array>
           </mxGeometry>
         </mxCell>
