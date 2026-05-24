@@ -65,7 +65,7 @@
           <mxGeometry x="1040" y="710" width="174" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-17" value="购电费用&#xa;分时电价累加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220.5" y="804" width="156" height="66" as="geometry" />
+          <mxGeometry x="220.5" y="770" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-19" value="运维成本&#xa;C_O&amp;amp;M = 60036元/日" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450.5" y="804" width="248" height="66" as="geometry" />
@@ -106,22 +106,6 @@
             <mxPoint x="440" y="742.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="431.5" y="703.5" />
-            </Array>
-            <mxPoint x="415.8061224489793" y="649" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="683.5" y="703.5" />
-            </Array>
-            <mxPoint x="514.5" y="642.1399999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-17" target="BSvBzQ-CNaPwpYHtXqsf-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -143,15 +127,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-75" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="570.5" y="690" as="sourcePoint" />
-            <mxPoint x="440" y="742.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-18" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358.5" y="690" width="156" height="66" as="geometry" />
+          <mxGeometry x="358.5" y="603" width="156" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
