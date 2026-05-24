@@ -7,7 +7,7 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="980" width="390" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-44" value="目标函数可分性分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-44" value="目标函数可分性分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="390" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-43" value="离散启停优化模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
@@ -25,14 +25,11 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-5" value="功率平衡&#xa;P_load(t)+y(t)·41.5 = P_ren+P_buy-P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="390" width="211" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-6" value="目标函数可分性分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="646.5" y="154" width="204" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-7" value="边际成本增量&#xa;ΔC(t)=[C1(t)+4003]-C0(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="230.5" width="237" height="66" as="geometry" />
+          <mxGeometry x="570" y="230.5" width="237" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-8" value="贪心精确最优证明&#xa;交换论证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="655" y="346.5" width="188" height="66" as="geometry" />
+          <mxGeometry x="671" y="320" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="675" y="440" width="147" height="66" as="geometry" />
