@@ -19,7 +19,7 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-45" value="目标函数&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 18px;&quot;&gt;最小化日总成本" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="670" y="378" width="500" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-44" target="qIsOwRziGY4ZYoRnFHQ9-45">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-44" target="qIsOwRziGY4ZYoRnFHQ9-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-44" value="约束条件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
@@ -37,37 +37,37 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-3" value="连续决策变量&#xa;x_alk(t)∈[2,20]&#xa;x_pem(t)∈[2,20]&#xa;q(t)∈[0.3,3]" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="250" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-4" value="功率平衡约束&#xa;含常规负荷与制氢氨" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-4" value="功率平衡约束&#xa;含常规负荷与制氢氨" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="149" y="440" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-5" value="氢气物料平衡&#xa;0.7x_alk+0.8x_pem=10q" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-5" value="氢气物料平衡&#xa;0.7x_alk+0.8x_pem=10q" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="383" y="440" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-6" value="购售电互斥&#xa;大M法+二进制变量z(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-6" value="购售电互斥&#xa;大M法+二进制变量z(t)" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="149" y="580" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-7" value="日产量约束&#xa;Σq(t)=D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-7" value="日产量约束&#xa;Σq(t)=D" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="383" y="580" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-9" target="qIsOwRziGY4ZYoRnFHQ9-12">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-9" target="qIsOwRziGY4ZYoRnFHQ9-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-9" value="购电费用&#xa;分时电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-9" value="购电费用&#xa;分时电价" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="702" y="440" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-10" target="qIsOwRziGY4ZYoRnFHQ9-12">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-10" target="qIsOwRziGY4ZYoRnFHQ9-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-10" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-10" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="702" y="580" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-11" target="qIsOwRziGY4ZYoRnFHQ9-12">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-11" target="qIsOwRziGY4ZYoRnFHQ9-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-11" value="运维费用&#xa;碱性0.1+PEM0.15+合成氨1元/t" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-11" value="运维费用&#xa;碱性0.1+PEM0.15+合成氨1元/t" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="933" y="440" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-12" value="CBC求解器&#xa;逐场景求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-12" value="CBC求解器&#xa;逐场景求解" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="933" y="580" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-14" value="削峰填谷特征&#xa;谷时满发/峰时降负荷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
