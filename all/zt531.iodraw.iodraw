@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;24场景结果分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="750" width="500" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;24场景结果分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="670" y="750" width="500" height="350" as="geometry" />
         </mxCell>
@@ -112,9 +115,6 @@
               <mxPoint x="491" y="904" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;24场景结果分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="750" width="500" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
