@@ -29,7 +29,7 @@
           <mxGeometry x="174" y="296.5" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-5" value="功率平衡&#xa;P_load(t)+y(t)·41.5 = P_ren+P_buy-P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="390" width="211" height="84" as="geometry" />
+          <mxGeometry x="160" y="390" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-7" value="边际成本增量&#xa;ΔC(t)=[C1(t)+4003]-C0(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="636.5" y="210" width="237" height="66" as="geometry" />
