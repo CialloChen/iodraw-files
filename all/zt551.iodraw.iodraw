@@ -74,10 +74,10 @@
           <mxGeometry x="796" y="780" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-18" value="有利影响&#xa;碳排放显著降低&#xa;推动灵活性资源投资" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="569" y="1040" width="204" height="84" as="geometry" />
+          <mxGeometry x="560" y="1040" width="204" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-19" value="不利影响&#xa;γ大于0.8后弃电率与成本快速上升&#xa;火电深度调峰压力增大" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="545.5" y="1180" width="251" height="101" as="geometry" />
+        <mxCell id="6tWixbPCyPsko_Agr3XY-19" value="不利影响&#xa;γ大于0.8后弃电率与成本快速上升&#xa;火电深度调峰压力增大" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="1180" width="250" height="100.6" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-21" value="完善容量补偿与&#xa;辅助服务市场机制" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="935" y="1180" width="188" height="66" as="geometry" />
