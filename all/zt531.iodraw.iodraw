@@ -37,8 +37,14 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-9" value="购电费用&#xa;分时电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="440" width="200" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-10" target="qIsOwRziGY4ZYoRnFHQ9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-10" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="580" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-11" target="qIsOwRziGY4ZYoRnFHQ9-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-11" value="运维费用&#xa;碱性0.1+PEM0.15+合成氨1元/t" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="933" y="440" width="200" height="100" as="geometry" />
