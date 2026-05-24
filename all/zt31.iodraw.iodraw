@@ -67,6 +67,9 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-17" value="购电费用&#xa;分时电价累加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="221" y="720" width="156" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-19" target="BSvBzQ-CNaPwpYHtXqsf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-19" value="运维成本&#xa;C_O&amp;amp;M = 60036元/日" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="442" y="590" width="248" height="66" as="geometry" />
         </mxCell>
@@ -75,6 +78,9 @@
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="1000" width="204" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-18" target="BSvBzQ-CNaPwpYHtXqsf-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-18" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220.5" y="590" width="156" height="66" as="geometry" />
