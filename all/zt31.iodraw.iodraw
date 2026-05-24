@@ -39,10 +39,10 @@
             <mxRectangle x="333" y="10" width="220" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-3" value="逐时功率计算&#xa;P_load=pu×6MW&#xa;P_wind=pu×40MW&#xa;P_pv=pu×64MW" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-3" value="逐时功率计算&#xa;P_load=pu×6MW&#xa;P_wind=pu×40MW&#xa;P_pv=pu×64MW" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-4" value="电氢氨刚性基荷&#xa;P_HN3=20.75MW恒定" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-4" value="电氢氨刚性基荷&#xa;P_HN3=20.75MW恒定" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="490" y="180" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-5" value="逐时平衡方程&#xa;P_total = P_renew + P_buy - P_sell" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
