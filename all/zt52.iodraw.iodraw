@@ -64,13 +64,13 @@
           <mxGeometry x="560" y="560" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-47" value="五种产量方案&#xa;72/63/54/45/36 t/d" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="646" y="634" width="206" height="66" as="geometry" />
+          <mxGeometry x="697" y="634" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-48" value="最优开机时段&#xa;避峰就谷聚集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="671" y="750" width="156" height="66" as="geometry" />
+          <mxGeometry x="722" y="750" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-49" value="甘特图与功率曲线输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="639" y="867" width="220" height="49" as="geometry" />
+          <mxGeometry x="690" y="867" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" source="PqKJCWfG-1twxdppCMA0-47" target="PqKJCWfG-1twxdppCMA0-48" parent="1">
           <mxGeometry relative="1" as="geometry">
