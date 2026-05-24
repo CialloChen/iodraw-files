@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2Xdbktqvxr_X9BV53S99">
-    <mxGraphModel dx="2998" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,25 +23,25 @@
           <mxGeometry x="1402" y="154" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-7" value="揭示风光-负荷时序错配&#xa;建立功率平衡基准" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="550" width="226" height="66" as="geometry" />
+          <mxGeometry x="496" y="270" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-8" value="引入离散决策变量&#xa;贪心排序精确求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="846" y="550" width="188" height="66" as="geometry" />
+          <mxGeometry x="736" y="270" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-9" value="构建MILP模型&#xa;效率优先连续分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="550" width="188" height="66" as="geometry" />
+          <mxGeometry x="974" y="270" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-10" value="离网功率平衡&#xa;储能容量扫描寻优" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1322" y="550" width="188" height="66" as="geometry" />
+          <mxGeometry x="1212" y="270" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-11" value="等值聚合体建模&#xa;渗透率扫描评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="550" width="172" height="66" as="geometry" />
+          <mxGeometry x="1450" y="270" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-12" value="绿电指标与吨氨成本&#xa;定量评估政策合规性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1076" y="666" width="204" height="66" as="geometry" />
+          <mxGeometry x="966" y="386" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-13" value="模型评价与改进&#xa;灵敏度/鲁棒性分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="782" width="196" height="66" as="geometry" />
+          <mxGeometry x="970" y="502" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-1" target="RxJmu4LLCR8VLa-qvXRP-2">
           <mxGeometry relative="1" as="geometry">
@@ -112,14 +112,14 @@
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-7" target="RxJmu4LLCR8VLa-qvXRP-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="683" y="641" />
+              <mxPoint x="573" y="361" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.13;rounded=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-8" target="RxJmu4LLCR8VLa-qvXRP-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="641" />
+              <mxPoint x="830" y="361" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,14 +131,14 @@
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.13;rounded=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-10" target="RxJmu4LLCR8VLa-qvXRP-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1416" y="641" />
+              <mxPoint x="1306" y="361" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.31;rounded=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-11" target="RxJmu4LLCR8VLa-qvXRP-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1646" y="641" />
+              <mxPoint x="1536" y="361" />
             </Array>
           </mxGeometry>
         </mxCell>
