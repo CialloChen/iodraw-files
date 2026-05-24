@@ -50,7 +50,7 @@
           <mxGeometry x="1059" y="320" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-11" value="上网电量 E_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="210" width="170" height="49" as="geometry" />
+          <mxGeometry x="1060" y="210" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-13" value="自发自用比例 η_self&#xa;园区净消纳新能源占比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="775" y="654" width="220" height="66" as="geometry" />
