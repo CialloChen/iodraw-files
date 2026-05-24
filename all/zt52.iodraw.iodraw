@@ -37,13 +37,13 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="400" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-19" value="36t/d:成本最低914元/t&#xa;但仅45天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-19" value="36t/d:成本最低914元/t&#xa;但仅45天合规" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="76" y="1060" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-20" value="72t/d:成本最高5948元/t&#xa;全年360天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-20" value="72t/d:成本最高5948元/t&#xa;全年360天合规" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310.5" y="1060" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-21" value="结论：经济性与合规性&#xa;显著帕累托权衡" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-21" value="结论：经济性与合规性&#xa;显著帕累托权衡" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="190" y="1210" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;典型日求解&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
