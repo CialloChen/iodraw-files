@@ -40,6 +40,9 @@
         <mxCell id="6tWixbPCyPsko_Agr3XY-9" value="约束条件&#xa;功率平衡/机组限值/备用需求/弃电限值" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="980" y="410" width="253" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="6tWixbPCyPsko_Agr3XY-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-11" target="6tWixbPCyPsko_Agr3XY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-11" value="弃电率&#xa;全年弃电量/理论发电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="480" y="645" width="228" height="66" as="geometry" />
         </mxCell>
