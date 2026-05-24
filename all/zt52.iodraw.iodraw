@@ -19,22 +19,22 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-1" value="输入条件&#xa;产能72t/d 离散ON/OFF&#xa;五种日产量方案" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="152.5" width="226" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-3" value="决策变量&#xa;y(t)∈{0,1}, t=1..24" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-3" value="决策变量&#xa;y(t)∈{0,1}, t=1..24" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-4" value="产量约束&#xa;Σy(t)=H=Q_day/3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-4" value="产量约束&#xa;Σy(t)=H=Q_day/3" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="313.5" y="230" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-5" value="功率平衡&#xa;P_load(t)+y(t)·41.5 =&#xa; P_ren+P_buy-P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-5" value="功率平衡&#xa;P_load(t)+y(t)·41.5 =&#xa; P_ren+P_buy-P_sell" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="176" y="400" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-7" value="边际成本增量&#xa;ΔC(t)=[C1(t)+4003]-C0(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-7" value="边际成本增量&#xa;ΔC(t)=[C1(t)+4003]-C0(t)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="180" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-8" value="贪心精确最优证明&#xa;交换论证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-8" value="贪心精确最优证明&#xa;交换论证" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="290" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-19" value="36t/d:成本最低914元/t&#xa;但仅45天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
