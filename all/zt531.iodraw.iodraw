@@ -32,7 +32,7 @@
           <mxGeometry x="400" y="580" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-8" value="目标函数&#xa;最小化日总成本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="867" y="457" width="172" height="66" as="geometry" />
+          <mxGeometry x="913" y="430" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-9" value="购电费用&#xa;分时电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="715" y="582" width="124" height="66" as="geometry" />
@@ -58,11 +58,11 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-16" value="成本波动性&#xa;标准差较离散↓7.1%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1158" y="998" width="196" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-17" value="与问题二对比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-17" value="与问题二对比" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="923" y="1123" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-18" value="平均吨氨成本&#xa;仅下降0.5%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1222" width="156" height="66" as="geometry" />
+          <mxGeometry x="696" y="1222" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-19" value="全满足天数&#xa;反而减少15天" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="926" y="1222" width="157" height="66" as="geometry" />
