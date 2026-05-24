@@ -32,10 +32,10 @@
           <mxGeometry x="678" y="328" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-7" value="决策变量&#xa;P_g,i(t), P_curt(t)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1035.5" y="212.5" width="189" height="66" as="geometry" />
+          <mxGeometry x="916.5" y="212.5" width="189" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-8" value="目标函数&#xa;燃料成本+备用成本+弃电惩罚" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1003.5" y="328.5" width="253" height="84" as="geometry" />
+          <mxGeometry x="1114" y="212.5" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-9" value="约束条件&#xa;功率平衡/机组限值/备用需求/弃电限值" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1003.5" y="462.5" width="253" height="84" as="geometry" />
@@ -84,22 +84,6 @@
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-24" value="创新氢氨储能&#xa;参与电力市场设计" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="912" y="1790" width="188" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;" edge="1" parent="1" target="6tWixbPCyPsko_Agr3XY-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1130.5" y="162.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-7" target="6tWixbPCyPsko_Agr3XY-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-8" target="6tWixbPCyPsko_Agr3XY-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-10" target="6tWixbPCyPsko_Agr3XY-11">
           <mxGeometry relative="1" as="geometry">
