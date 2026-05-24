@@ -43,22 +43,22 @@
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-5" value="问题四&#xa;离网运行与储能配置" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1280" y="140" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RxJmu4LLCR8VLa-qvXRP-6" value="问题五&#xa;高渗透率系统影响与&#xa;政策建议" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-6" value="问题五&#xa;高渗透率系统影响与&#xa;政策建议" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1540" y="140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-7" target="RxJmu4LLCR8VLa-qvXRP-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RxJmu4LLCR8VLa-qvXRP-7" value="揭示风光-负荷时序错配&#xa;建立功率平衡基准" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-7" value="揭示风光-负荷时序错配&#xa;建立功率平衡基准" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="270" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-9" target="RxJmu4LLCR8VLa-qvXRP-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RxJmu4LLCR8VLa-qvXRP-9" value="构建MILP模型&#xa;效率优先连续分配" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-9" value="构建MILP模型&#xa;效率优先连续分配" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1020" y="270" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RxJmu4LLCR8VLa-qvXRP-11" value="等值聚合体建模&#xa;渗透率扫描评估" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-11" value="等值聚合体建模&#xa;渗透率扫描评估" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1540" y="270" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-12" value="绿电指标与吨氨成本&#xa;定量评估政策合规性" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
@@ -85,13 +85,13 @@
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-8" target="RxJmu4LLCR8VLa-qvXRP-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RxJmu4LLCR8VLa-qvXRP-8" value="引入离散决策变量&#xa;贪心排序精确求解" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-8" value="引入离散决策变量&#xa;贪心排序精确求解" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="760" y="270" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-10" target="RxJmu4LLCR8VLa-qvXRP-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RxJmu4LLCR8VLa-qvXRP-10" value="离网功率平衡&#xa;储能容量扫描寻优" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-10" value="离网功率平衡&#xa;储能容量扫描寻优" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1280" y="270" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-11" target="RxJmu4LLCR8VLa-qvXRP-12">
