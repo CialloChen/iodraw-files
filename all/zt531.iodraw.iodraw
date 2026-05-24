@@ -44,7 +44,7 @@
           <mxGeometry x="933" y="480" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-12" value="CBC求解器&#xa;逐场景求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="960" y="610" width="200" height="66" as="geometry" />
+          <mxGeometry x="960" y="610" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-13" value="24场景结果分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="927" y="890" width="173" height="49" as="geometry" />
