@@ -7,7 +7,7 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="980" width="390" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-44" value="目标函数可分性分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="390" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-43" value="离散启停优化模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
@@ -20,10 +20,10 @@
           <mxGeometry x="170" y="203" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-4" value="产量约束&#xa;Σy(t)=H=Q_day/3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="183" height="66" as="geometry" />
+          <mxGeometry x="174" y="296.5" width="183" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-5" value="功率平衡&#xa;P_load(t)+y(t)·41.5 = P_ren+P_buy-P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="181" y="410" width="211" height="84" as="geometry" />
+          <mxGeometry x="160" y="390" width="211" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-6" value="目标函数可分性分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="646.5" y="154" width="204" height="49" as="geometry" />
