@@ -25,6 +25,9 @@
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-4" target="RxJmu4LLCR8VLa-qvXRP-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-4" target="RxJmu4LLCR8VLa-qvXRP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-4" value="问题三&#xa;连续功率调节优化" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="980" y="140" width="200" height="70" as="geometry" />
         </mxCell>
@@ -35,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-5" value="问题四&#xa;离网运行与储能配置" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="140" width="200" height="70" as="geometry" />
+          <mxGeometry x="1230" y="140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-6" value="问题五&#xa;高渗透率系统影响与&#xa;政策建议" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="140" width="200" height="70" as="geometry" />
+          <mxGeometry x="1470" y="140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-7" value="揭示风光-负荷时序错配&#xa;建立功率平衡基准" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="515" y="270" width="200" height="70" as="geometry" />
@@ -47,7 +50,7 @@
           <mxGeometry x="980" y="270" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-11" value="等值聚合体建模&#xa;渗透率扫描评估" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="270" width="200" height="70" as="geometry" />
+          <mxGeometry x="1470" y="270" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-12" value="绿电指标与吨氨成本&#xa;定量评估政策合规性" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="980" y="390" width="200" height="70" as="geometry" />
@@ -74,7 +77,7 @@
           <mxGeometry x="760" y="270" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-10" value="离网功率平衡&#xa;储能容量扫描寻优" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="270" width="200" height="70" as="geometry" />
+          <mxGeometry x="1230" y="270" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
