@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6tWixbPCyPsko_Agr3XY-57" value="政策建议" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="6tWixbPCyPsko_Agr3XY-57" value="政策建议" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="930" y="1000" width="400" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6tWixbPCyPsko_Agr3XY-56" value="系统影响分析" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="471" y="1000" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-55" value="评价指标体系" style="whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
@@ -69,9 +69,6 @@
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-19" value="不利影响&#xa;γ大于0.8后弃电率与成本快速上升&#xa;火电深度调峰压力增大" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="591" y="1260" width="251" height="101" as="geometry" />
-        </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-20" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="1020" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-21" value="完善容量补偿与&#xa;辅助服务市场机制" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="930" y="1299" width="188" height="66" as="geometry" />
