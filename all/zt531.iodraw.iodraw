@@ -155,6 +155,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-52" value="目标函数&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 18px;&quot;&gt;最小化日总成本" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="670" y="750" width="500" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
