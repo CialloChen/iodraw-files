@@ -1,10 +1,10 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2Xdbktqvxr_X9BV53S99">
-    <mxGraphModel dx="2141" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RxJmu4LLCR8VLa-qvXRP-1" value="问题重述&#xa;绿电直连电氢氨园区运行优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-1" value="绿电直连电氢氨园区运行优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="488" y="20" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-2" value="问题一&#xa;刚性满负荷运行基准分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
