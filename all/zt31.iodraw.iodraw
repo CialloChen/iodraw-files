@@ -16,7 +16,7 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-60" target="BSvBzQ-CNaPwpYHtXqsf-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-60" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;绿电指标计算&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="586" width="500" height="300" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-53" target="BSvBzQ-CNaPwpYHtXqsf-60">
@@ -52,9 +52,6 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-11" value="上网电量 E_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1060" y="210" width="170" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-12" value="绿电指标计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="920" y="620" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-13" value="自发自用比例 η_self&#xa;园区净消纳新能源占比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="775" y="690" width="220" height="66" as="geometry" />
         </mxCell>
@@ -71,30 +68,33 @@
           <mxGeometry x="442" y="590" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-20" value="吨氨成本&#xa;C_ton = 净费用/36" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="221" y="850" width="193" height="66" as="geometry" />
+          <mxGeometry x="469.5" y="720" width="193" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="345" y="1150" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-12" target="BSvBzQ-CNaPwpYHtXqsf-13">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="775" y="769" />
             </Array>
+            <mxPoint x="920" y="659.69" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-12" target="BSvBzQ-CNaPwpYHtXqsf-14">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1037" y="769" />
             </Array>
+            <mxPoint x="1005.9591836734699" y="669" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-12" target="BSvBzQ-CNaPwpYHtXqsf-15">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1276" y="769" />
             </Array>
+            <mxPoint x="1076" y="659.2" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-18" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
