@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="739" width="990" height="430" as="geometry" />
+          <mxGeometry x="790" y="130" width="990" height="430" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-1" value="输入数据&#xa;典型日风光/负荷标幺曲线&#xa;设备额定参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="20" width="244" height="84" as="geometry" />
@@ -236,13 +236,6 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-20" target="BSvBzQ-CNaPwpYHtXqsf-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-7" target="BSvBzQ-CNaPwpYHtXqsf-53">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="369" y="806" as="sourcePoint" />
-            <mxPoint x="105" y="869" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
