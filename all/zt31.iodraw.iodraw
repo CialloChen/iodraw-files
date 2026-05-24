@@ -58,6 +58,12 @@
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-10" value="离网功率平衡&#xa;储能容量扫描寻优" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1190" y="270" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="RxJmu4LLCR8VLa-qvXRP-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.425;entryY=0.131;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RxJmu4LLCR8VLa-qvXRP-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
