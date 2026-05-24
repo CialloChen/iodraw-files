@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6tWixbPCyPsko_Agr3XY-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="130" width="400" height="400" as="geometry" />
+        </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-53" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="462" y="130" width="400" height="400" as="geometry" />
         </mxCell>
@@ -23,16 +26,16 @@
           <mxGeometry x="565" y="489" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-6" value="优化模型建立" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1052.5" y="160" width="156" height="49" as="geometry" />
+          <mxGeometry x="1039" y="122" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-7" value="决策变量&#xa;P_g,i(t), P_curt(t)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1035.5" y="259" width="189" height="66" as="geometry" />
+          <mxGeometry x="1022" y="221" width="189" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-8" value="目标函数&#xa;燃料成本+备用成本+弃电惩罚" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1003.5" y="375" width="253" height="84" as="geometry" />
+          <mxGeometry x="990" y="337" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-9" value="约束条件&#xa;功率平衡/机组限值/备用需求/弃电限值" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1003.5" y="509" width="253" height="84" as="geometry" />
+          <mxGeometry x="990" y="471" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-10" value="评价指标体系" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="573" y="1102" width="156" height="49" as="geometry" />
@@ -252,9 +255,6 @@
               <mxPoint x="1006" y="1757" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="930" y="130" width="400" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
