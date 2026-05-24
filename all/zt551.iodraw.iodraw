@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-13" value="平均供电成本&#xa;总成本/总负荷电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="798" y="515" width="196" height="66" as="geometry" />
+          <mxGeometry x="798" y="515" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-14" value="碳排放强度&#xa;火电排放系数加权" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="970" y="647" width="188" height="66" as="geometry" />
