@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-66" target="BSvBzQ-CNaPwpYHtXqsf-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-66" value="功率平衡模型数学建模" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="205" y="140" width="500" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-61" target="BSvBzQ-CNaPwpYHtXqsf-21">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="520" width="500" height="430" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="760" y="140" width="500" height="300" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-1" value="输入数据&#xa;典型日风光/负荷标幺曲线&#xa;设备额定参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="325" y="20" width="244" height="84" as="geometry" />
+          <mxGeometry x="307.5" y="10" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-3" value="逐时功率计算&#xa;P_load=pu×6MW&#xa;P_wind=pu×40MW&#xa;P_pv=pu×64MW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="200" height="100" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="450.5" y="804" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-20" value="吨氨成本&#xa;C_ton = 净费用/36" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358.5" y="910" width="193" height="66" as="geometry" />
+          <mxGeometry x="345" y="880" width="193" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="345" y="1150" width="204" height="66" as="geometry" />
