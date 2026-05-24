@@ -38,19 +38,19 @@
           <mxGeometry x="317" y="450" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-6" value="购售电互斥决策&#xa;max函数判定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="361" y="680" width="172" height="66" as="geometry" />
+          <mxGeometry x="349" y="660" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-8" value="日用电量 E_use" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="255.5" y="920" width="170" height="49" as="geometry" />
+          <mxGeometry x="240" y="905" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-9" value="新能源发电量 E_ren" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1060" width="201" height="49" as="geometry" />
+          <mxGeometry x="224.5" y="1010" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-10" value="网购电量 E_buy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1060" width="171" height="49" as="geometry" />
+          <mxGeometry x="460" y="1010" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-11" value="上网电量 E_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="525" y="899" width="170" height="49" as="geometry" />
+          <mxGeometry x="460" y="900" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-12" value="绿电指标计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1437" y="856" width="156" height="49" as="geometry" />
