@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-19" value="运维成本&#xa;C_O&amp;amp;M = 60036元/日" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="442" y="590" width="200" height="100" as="geometry" />
+          <mxGeometry x="466" y="556" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-20" value="吨氨成本&#xa;C_ton = 净费用/36" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="469.5" y="720" width="193" height="66" as="geometry" />
