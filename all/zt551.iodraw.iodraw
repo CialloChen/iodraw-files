@@ -44,7 +44,7 @@
           <mxGeometry x="480" y="515" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-12" value="备用不足率&#xa;未满足备用时段占比" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="626" y="647" width="204" height="66" as="geometry" />
+          <mxGeometry x="626" y="647" width="200" height="64.71" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-13" target="6tWixbPCyPsko_Agr3XY-16">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="796" y="515" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-14" value="碳排放强度&#xa;火电排放系数加权" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="970" y="647" width="200" height="66" as="geometry" />
+          <mxGeometry x="970" y="647" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-15" value="火电平均出力&#xa;调峰压力指标" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1090" y="515" width="200" height="100" as="geometry" />
