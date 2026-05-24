@@ -14,10 +14,10 @@
           <mxGeometry x="268" y="154" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-3" value="连续决策变量&#xa;x_alk(t)∈[2,20]&#xa;x_pem(t)∈[2,20]&#xa;q(t)∈[0.3,3]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="253" width="185" height="101" as="geometry" />
+          <mxGeometry x="270" y="230" width="185" height="101" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-4" value="功率平衡约束&#xa;含常规负荷与制氢氨" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="119" y="440" width="204" height="66" as="geometry" />
+          <mxGeometry x="125.5" y="440" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-5" value="氢气物料平衡&#xa;0.7x_alk+0.8x_pem=10q" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347" y="440" width="233" height="66" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="119" y="580" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-7" value="日产量约束&#xa;Σq(t)=D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="630" width="140" height="66" as="geometry" />
+          <mxGeometry x="400" y="580" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-8" value="目标函数&#xa;最小化日总成本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="277" y="869" width="172" height="66" as="geometry" />
