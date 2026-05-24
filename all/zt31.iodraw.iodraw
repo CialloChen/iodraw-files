@@ -25,6 +25,9 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-6" value="购售电互斥决策&#xa;max函数判定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="361" y="654" width="172" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-7" target="BSvBzQ-CNaPwpYHtXqsf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-7" value="电量累计统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1209" y="180" width="156" height="49" as="geometry" />
         </mxCell>
@@ -93,13 +96,6 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-5" target="BSvBzQ-CNaPwpYHtXqsf-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-7" target="BSvBzQ-CNaPwpYHtXqsf-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1180" y="254" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-12" target="BSvBzQ-CNaPwpYHtXqsf-13">
