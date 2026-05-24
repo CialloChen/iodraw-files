@@ -7,7 +7,7 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;与问题二对比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="750" width="500" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-52" target="qIsOwRziGY4ZYoRnFHQ9-53">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-52" target="qIsOwRziGY4ZYoRnFHQ9-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;24场景结果分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -70,22 +70,22 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-12" value="CBC求解器&#xa;逐场景求解" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="933" y="580" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-14" value="削峰填谷特征&#xa;谷时满发/峰时降负荷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-14" value="削峰填谷特征&#xa;谷时满发/峰时降负荷" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="690" y="840" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-15" value="效率优先分配&#xa;PEM利用率84.4%&amp;lt;&#xa;碱性降至64.2%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-15" value="效率优先分配&#xa;PEM利用率84.4%&amp;lt;&#xa;碱性降至64.2%" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="817" y="972" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-16" value="成本波动性&#xa;标准差较离散↓7.1%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-16" value="成本波动性&#xa;标准差较离散↓7.1%" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="950" y="840" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-18" value="平均吨氨成本&#xa;仅下降0.5%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-18" value="平均吨氨成本&#xa;仅下降0.5%" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="140" y="840" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-19" value="全满足天数&#xa;反而减少15天" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-19" value="全满足天数&#xa;反而减少15天" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="981" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-20" value="核心价值&#xa;运行平滑+储能协同基础" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-20" value="核心价值&#xa;运行平滑+储能协同基础" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="840" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-1" target="qIsOwRziGY4ZYoRnFHQ9-2">
