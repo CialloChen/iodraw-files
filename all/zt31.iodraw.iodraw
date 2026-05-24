@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-18" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220.5" y="590" width="156" height="66" as="geometry" />
+          <mxGeometry x="220.5" y="590" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
