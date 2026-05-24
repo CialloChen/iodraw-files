@@ -26,7 +26,7 @@
           <mxGeometry x="112.5" y="378" width="500" height="350" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-1" value="输入条件&#xa;功率连续可调10%-100%&amp;lt;&#xa;碱性与PEM效率差异" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="237" y="-10" width="251" height="84" as="geometry" />
+          <mxGeometry x="237" y="-10" width="200" height="84" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-2" value="连续调节MILP模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="100" width="200" height="100" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-3" value="连续决策变量&#xa;x_alk(t)∈[2,20]&#xa;x_pem(t)∈[2,20]&#xa;q(t)∈[0.3,3]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="200" height="101" as="geometry" />
+          <mxGeometry x="262.5" y="230" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-4" value="功率平衡约束&#xa;含常规负荷与制氢氨" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="149" y="440" width="200" height="100" as="geometry" />
