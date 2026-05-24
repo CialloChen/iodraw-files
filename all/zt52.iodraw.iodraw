@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="143" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-1" value="输入条件&#xa;产能72t/d 离散ON/OFF&#xa;五种日产量方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="213" width="226" height="84" as="geometry" />
+          <mxGeometry x="152.5" width="226" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-3" value="决策变量&#xa;y(t)∈{0,1}, t=1..24" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="203" width="200" height="66" as="geometry" />
