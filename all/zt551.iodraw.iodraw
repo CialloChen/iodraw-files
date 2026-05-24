@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fOxCzRC-ExsTCp74cvHH">
-    <mxGraphModel dx="4442" dy="3112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3615" dy="3112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="430" y="1531" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-779" y="555" width="400" height="400" as="geometry" />
+          <mxGeometry x="471" y="1000" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-55" value="评价指标体系" style="whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="462" y="555" width="868" height="415" as="geometry" />
@@ -59,16 +59,16 @@
           <mxGeometry x="827" y="870" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-17" value="系统影响分析" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-657" y="645" width="156" height="49" as="geometry" />
+          <mxGeometry x="593" y="1090" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-18" value="有利影响&#xa;碳排放显著降低&#xa;推动灵活性资源投资" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="752" width="204" height="84" as="geometry" />
+          <mxGeometry x="430" y="1197" width="204" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-19" value="不利影响&#xa;γ大于0.8后弃电率与成本快速上升&#xa;火电深度调峰压力增大" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-566" y="743" width="251" height="101" as="geometry" />
+          <mxGeometry x="684" y="1188" width="251" height="101" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-20" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="582" y="1683" width="124" height="49" as="geometry" />
+          <mxGeometry x="568" y="1600" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-21" value="完善容量补偿与&#xa;辅助服务市场机制" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="1790" width="188" height="66" as="geometry" />
@@ -85,14 +85,14 @@
         <mxCell id="6tWixbPCyPsko_Agr3XY-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-17" target="6tWixbPCyPsko_Agr3XY-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-718" y="718" />
+              <mxPoint x="532" y="1163" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-17" target="6tWixbPCyPsko_Agr3XY-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-440" y="718" />
+              <mxPoint x="810" y="1163" />
             </Array>
           </mxGeometry>
         </mxCell>
