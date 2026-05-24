@@ -41,10 +41,10 @@
           <mxGeometry x="980" y="410" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-11" value="弃电率&#xa;全年弃电量/理论发电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="468" y="686" width="228" height="66" as="geometry" />
+          <mxGeometry x="480" y="645" width="228" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-12" value="备用不足率&#xa;未满足备用时段占比" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="626" y="920" width="204" height="66" as="geometry" />
+          <mxGeometry x="650" y="752" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-13" value="平均供电成本&#xa;总成本/总负荷电量" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="792" y="645" width="196" height="66" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="1036" y="910" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-15" value="火电平均出力&#xa;调峰压力指标" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1163" y="670" width="156" height="66" as="geometry" />
+          <mxGeometry x="1110" y="645" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-16" value="渗透率扫描求解&#xa;8760h全年调度" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="862" y="1070" width="172" height="66" as="geometry" />
