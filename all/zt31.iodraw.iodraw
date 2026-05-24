@@ -56,10 +56,13 @@
           <mxGeometry x="775" y="630" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-14" value="绿电比例 η_green&#xa;总用电中新能源占比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="786" width="200" height="100" as="geometry" />
+          <mxGeometry x="900" y="770" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-15" value="上网比例 η_grid&#xa;新能源外送占比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1043" y="654" width="200" height="100" as="geometry" />
+          <mxGeometry x="1030" y="630" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-17" target="BSvBzQ-CNaPwpYHtXqsf-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-17" value="购电费用&#xa;分时电价累加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="221" y="720" width="156" height="66" as="geometry" />
