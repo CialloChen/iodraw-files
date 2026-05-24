@@ -26,7 +26,7 @@
           <mxGeometry x="313.5" y="250" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-5" value="功率平衡&#xa;P_load(t)+y(t)·41.5 = P_ren+P_buy-P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="178.5" y="390" width="200" height="100" as="geometry" />
+          <mxGeometry x="176" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-7" value="边际成本增量&#xa;ΔC(t)=[C1(t)+4003]-C0(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="180" width="200" height="100" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="710" y="290" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="710" y="410" width="200" height="100" as="geometry" />
+          <mxGeometry x="710" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-19" value="36t/d:成本最低914元/t&#xa;但仅45天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="76" y="1060" width="200" height="100" as="geometry" />
