@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-45" value="目标函数&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;最小化日总成本" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="670" y="378" width="715" height="430" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-44" value="约束条件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-7" value="日产量约束&#xa;Σq(t)=D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="383" y="580" width="200" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-8" value="目标函数&#xa;最小化日总成本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="923" y="410" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-9" value="购电费用&#xa;分时电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="712" y="560" width="124" height="66" as="geometry" />
@@ -83,25 +80,28 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-8" target="qIsOwRziGY4ZYoRnFHQ9-9">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="qIsOwRziGY4ZYoRnFHQ9-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="777" y="548" />
             </Array>
+            <mxPoint x="923" y="471.3800000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-8" target="qIsOwRziGY4ZYoRnFHQ9-10">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="qIsOwRziGY4ZYoRnFHQ9-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="967" y="548" />
             </Array>
+            <mxPoint x="1015.7450980392159" y="476" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-8" target="qIsOwRziGY4ZYoRnFHQ9-11">
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="qIsOwRziGY4ZYoRnFHQ9-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1218" y="548" />
             </Array>
+            <mxPoint x="1095" y="462.1400000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.21;rounded=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-9" target="qIsOwRziGY4ZYoRnFHQ9-12">
