@@ -34,6 +34,9 @@
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-7" value="日产量约束&#xa;Σq(t)=D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="383" y="580" width="200" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="qIsOwRziGY4ZYoRnFHQ9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIsOwRziGY4ZYoRnFHQ9-9" target="qIsOwRziGY4ZYoRnFHQ9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-9" value="购电费用&#xa;分时电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="440" width="200" height="100" as="geometry" />
         </mxCell>
