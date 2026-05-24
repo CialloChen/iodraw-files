@@ -37,6 +37,11 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-7" value="电量累计统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1209" y="180" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-8" value="日用电量 E_use" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="860" y="279" width="170" height="49" as="geometry" />
         </mxCell>
