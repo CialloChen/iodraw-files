@@ -4,6 +4,182 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PqKJCWfG-1twxdppCMA0-1" value="输入条件&#xa;产能72t/d 离散ON/OFF&#xa;五种日产量方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="226" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-2" value="离散启停优化模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="154" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-3" value="决策变量&#xa;y(t)∈{0,1}, t=1..24" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="174" y="253" width="200" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-4" value="产量约束&#xa;Σy(t)=H=Q_day/3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="182" y="369" width="183" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-5" value="功率平衡&#xa;P_load(t)+y(t)·41.5 = P_ren+P_buy-P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="168" y="485" width="211" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-6" value="目标函数可分性分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="172" y="619" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-7" value="边际成本增量&#xa;ΔC(t)=[C1(t)+4003]-C0(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="155" y="718" width="237" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-8" value="贪心精确最优证明&#xa;交换论证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="834" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-9" value="复杂度降至&#xa;O(24 log 24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="950" width="147" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-10" value="典型日求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="204" y="1066" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-11" value="五种产量方案&#xa;72/63/54/45/36 t/d" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="171" y="1165" width="206" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-12" value="最优开机时段&#xa;避峰就谷聚集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="196" y="1281" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-13" value="甘特图与功率曲线输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="164" y="1398" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-14" value="24场景全年扩展" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="187" y="1496" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-15" value="6风电×4光伏=24场景&#xa;各15天" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1595" width="206" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-16" value="状态变量定义&#xa;全满足/部分满足/全不满足" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="1711" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-17" value="全年合规天数统计&#xa;成本分布核密度估计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="172" y="1827" width="204" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-18" value="权衡分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="212" y="1944" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-19" value="36t/d:成本最低914元/t&#xa;但仅45天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2042" width="227" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-20" value="72t/d:成本最高5948元/t&#xa;全年360天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="297" y="2042" width="235" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-21" value="结论：经济性与合规性&#xa;显著帕累托权衡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="164" y="2159" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-1" target="PqKJCWfG-1twxdppCMA0-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-2" target="PqKJCWfG-1twxdppCMA0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-3" target="PqKJCWfG-1twxdppCMA0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-4" target="PqKJCWfG-1twxdppCMA0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-5" target="PqKJCWfG-1twxdppCMA0-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-6" target="PqKJCWfG-1twxdppCMA0-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-7" target="PqKJCWfG-1twxdppCMA0-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-8" target="PqKJCWfG-1twxdppCMA0-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-9" target="PqKJCWfG-1twxdppCMA0-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-10" target="PqKJCWfG-1twxdppCMA0-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-11" target="PqKJCWfG-1twxdppCMA0-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-12" target="PqKJCWfG-1twxdppCMA0-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-13" target="PqKJCWfG-1twxdppCMA0-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-14" target="PqKJCWfG-1twxdppCMA0-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-15" target="PqKJCWfG-1twxdppCMA0-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-16" target="PqKJCWfG-1twxdppCMA0-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-17" target="PqKJCWfG-1twxdppCMA0-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-18" target="PqKJCWfG-1twxdppCMA0-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="2017" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-18" target="PqKJCWfG-1twxdppCMA0-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="2017" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.13;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-19" target="PqKJCWfG-1twxdppCMA0-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="2134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PqKJCWfG-1twxdppCMA0-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.86;entryY=-0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-20" target="PqKJCWfG-1twxdppCMA0-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="2134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
