@@ -83,7 +83,7 @@
           <mxGeometry x="140" y="840" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-19" value="全满足天数&#xa;反而减少15天" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="284" y="981" width="200" height="66" as="geometry" />
+          <mxGeometry x="284" y="981" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qIsOwRziGY4ZYoRnFHQ9-20" value="核心价值&#xa;运行平滑+储能协同基础" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="840" width="200" height="100" as="geometry" />
