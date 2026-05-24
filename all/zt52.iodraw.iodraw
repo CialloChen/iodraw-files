@@ -74,11 +74,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-45" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;典型日求解&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="570" y="560" width="390" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-46" value="典型日求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="695" y="559" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-47" value="五种产量方案&#xa;72/63/54/45/36 t/d" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="662" y="658" width="206" height="66" as="geometry" />
@@ -89,9 +86,10 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-49" value="甘特图与功率曲线输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="655" y="891" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="PqKJCWfG-1twxdppCMA0-46" target="PqKJCWfG-1twxdppCMA0-47" parent="1">
+        <mxCell id="PqKJCWfG-1twxdppCMA0-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" target="PqKJCWfG-1twxdppCMA0-47" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="765" y="608.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" source="PqKJCWfG-1twxdppCMA0-47" target="PqKJCWfG-1twxdppCMA0-48" parent="1">
