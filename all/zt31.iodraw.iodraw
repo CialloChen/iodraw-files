@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-3" value="问题二&#xa;离散启停调节优化" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="760" y="140" width="200" height="70" as="geometry" />
+          <mxGeometry x="756" y="140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-4" target="RxJmu4LLCR8VLa-qvXRP-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-4" value="问题三&#xa;连续功率调节优化" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="980" y="140" width="200" height="70" as="geometry" />
+          <mxGeometry x="983" y="140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-5" target="RxJmu4LLCR8VLa-qvXRP-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-5" value="问题四&#xa;离网运行与储能配置" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="140" width="200" height="70" as="geometry" />
+          <mxGeometry x="1209" y="140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-6" value="问题五&#xa;高渗透率系统影响与&#xa;政策建议" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1420" y="140" width="200" height="70" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="980" y="390" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-13" value="模型评价与改进&#xa;灵敏度/鲁棒性分析" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="970" y="500" width="200" height="70" as="geometry" />
+          <mxGeometry x="980" y="500" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RxJmu4LLCR8VLa-qvXRP-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" edge="1" parent="1" source="RxJmu4LLCR8VLa-qvXRP-1" target="RxJmu4LLCR8VLa-qvXRP-2">
           <mxGeometry relative="1" as="geometry">
