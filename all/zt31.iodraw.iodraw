@@ -12,8 +12,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-71" value="&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;购售电互斥决策&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;max函数判定&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];" vertex="1" connectable="0" parent="BSvBzQ-CNaPwpYHtXqsf-67">
-          <mxGeometry x="0.0761" y="-7" relative="1" as="geometry">
+        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-71" value="&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;购售电互斥决策&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;max函数判定&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSvBzQ-CNaPwpYHtXqsf-67">
+          <mxGeometry x="0.0761" y="-6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
