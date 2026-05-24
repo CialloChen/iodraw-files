@@ -64,7 +64,7 @@
           <mxGeometry x="560" y="560" width="500" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-47" value="五种产量方案&#xa;72/63/54/45/36 t/d" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="697" y="634" width="206" height="66" as="geometry" />
+          <mxGeometry x="697" y="634" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-48" value="最优开机时段&#xa;避峰就谷聚集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="722" y="750" width="156" height="66" as="geometry" />
