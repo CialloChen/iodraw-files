@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1170" width="990" height="430" as="geometry" />
+          <mxGeometry x="1020" y="1276" width="990" height="430" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="654" width="990" height="430" as="geometry" />
+          <mxGeometry x="1020" y="760" width="990" height="430" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-33" y="760" width="990" height="430" as="geometry" />
@@ -56,34 +56,34 @@
           <mxGeometry x="720" y="899" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-12" value="绿电指标计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1217" y="750" width="156" height="49" as="geometry" />
+          <mxGeometry x="1437" y="856" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-13" value="自发自用比例 η_self&#xa;园区净消纳新能源占比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="938" y="848" width="220" height="66" as="geometry" />
+          <mxGeometry x="1158" y="954" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-14" value="绿电比例 η_green&#xa;总用电中新能源占比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1208" y="848" width="204" height="66" as="geometry" />
+          <mxGeometry x="1428" y="954" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-15" value="上网比例 η_grid&#xa;新能源外送占比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1462" y="848" width="174" height="66" as="geometry" />
+          <mxGeometry x="1682" y="954" width="174" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-16" value="吨氨成本核算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="1244.5" width="156" height="49" as="geometry" />
+          <mxGeometry x="1425" y="1350.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-17" value="购电费用&#xa;分时电价累加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="957" y="1342.5" width="156" height="66" as="geometry" />
+          <mxGeometry x="1177" y="1448.5" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-18" value="售电收入&#xa;固定上网电价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1163" y="1342.5" width="156" height="66" as="geometry" />
+          <mxGeometry x="1383" y="1448.5" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-19" value="运维成本&#xa;C_O&amp;amp;M = 60036元/日" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1369" y="1342.5" width="248" height="66" as="geometry" />
+          <mxGeometry x="1589" y="1448.5" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-20" value="吨氨成本&#xa;C_ton = 净费用/36" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1168" y="1480" width="193" height="66" as="geometry" />
+          <mxGeometry x="1388" y="1586" width="193" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-21" value="结果分析&#xa;指标判定与原因诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1209" y="1650" width="204" height="66" as="geometry" />
+          <mxGeometry x="1429" y="1756" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-1" target="BSvBzQ-CNaPwpYHtXqsf-2">
           <mxGeometry relative="1" as="geometry">
@@ -113,63 +113,63 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-12" target="BSvBzQ-CNaPwpYHtXqsf-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1048" y="823" />
+              <mxPoint x="1268" y="929" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-12" target="BSvBzQ-CNaPwpYHtXqsf-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1310" y="823" />
+              <mxPoint x="1530" y="929" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-12" target="BSvBzQ-CNaPwpYHtXqsf-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1549" y="823" />
+              <mxPoint x="1769" y="929" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-16" target="BSvBzQ-CNaPwpYHtXqsf-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1035" y="1317.5" />
+              <mxPoint x="1255" y="1423.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-16" target="BSvBzQ-CNaPwpYHtXqsf-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1241" y="1317.5" />
+              <mxPoint x="1461" y="1423.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-16" target="BSvBzQ-CNaPwpYHtXqsf-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1493" y="1317.5" />
+              <mxPoint x="1713" y="1423.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-17" target="BSvBzQ-CNaPwpYHtXqsf-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1035" y="1434.5" />
+              <mxPoint x="1255" y="1540.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.44;entryY=-0.01;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-18" target="BSvBzQ-CNaPwpYHtXqsf-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1241" y="1434.5" />
+              <mxPoint x="1461" y="1540.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.13;rounded=0;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-19" target="BSvBzQ-CNaPwpYHtXqsf-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1493" y="1434.5" />
+              <mxPoint x="1713" y="1540.5" />
             </Array>
           </mxGeometry>
         </mxCell>
