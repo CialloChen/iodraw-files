@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6tWixbPCyPsko_Agr3XY-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="462" y="620" width="400" height="400" as="geometry" />
+        </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="930" y="130" width="400" height="400" as="geometry" />
         </mxCell>
@@ -59,13 +62,13 @@
           <mxGeometry x="568" y="905" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-17" value="系统影响分析" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="566" y="1433" width="156" height="49" as="geometry" />
+          <mxGeometry x="1313" y="690" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-18" value="有利影响&#xa;碳排放显著降低&#xa;推动灵活性资源投资" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="403" y="1540" width="204" height="84" as="geometry" />
+          <mxGeometry x="1150" y="797" width="204" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-19" value="不利影响&#xa;γ大于0.8后弃电率与成本快速上升&#xa;火电深度调峰压力增大" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="657" y="1531" width="251" height="101" as="geometry" />
+          <mxGeometry x="1404" y="788" width="251" height="101" as="geometry" />
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-20" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="582" y="1683" width="124" height="49" as="geometry" />
@@ -203,14 +206,14 @@
         <mxCell id="6tWixbPCyPsko_Agr3XY-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-17" target="6tWixbPCyPsko_Agr3XY-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="1506" />
+              <mxPoint x="1252" y="763" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tWixbPCyPsko_Agr3XY-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="1" source="6tWixbPCyPsko_Agr3XY-17" target="6tWixbPCyPsko_Agr3XY-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="783" y="1506" />
+              <mxPoint x="1530" y="763" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -255,9 +258,6 @@
               <mxPoint x="1006" y="1757" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6tWixbPCyPsko_Agr3XY-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="462" y="620" width="400" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
