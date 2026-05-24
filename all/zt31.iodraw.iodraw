@@ -37,13 +37,8 @@
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-5" value="逐时平衡方程&#xa;P_total = P_renew + P_buy - P_sell" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="317" y="450" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="BSvBzQ-CNaPwpYHtXqsf-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSvBzQ-CNaPwpYHtXqsf-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="447.00000000000045" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-6" value="购售电互斥决策&#xa;max函数判定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="361" y="670" width="172" height="66" as="geometry" />
+          <mxGeometry x="361" y="680" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BSvBzQ-CNaPwpYHtXqsf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BSvBzQ-CNaPwpYHtXqsf-9">
           <mxGeometry relative="1" as="geometry">
