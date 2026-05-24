@@ -44,10 +44,10 @@
           <mxGeometry x="292" y="1041" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-19" value="36t/d:成本最低914元/t&#xa;但仅45天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1139" width="227" height="66" as="geometry" />
+          <mxGeometry x="130" y="1139" width="227" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-20" value="72t/d:成本最高5948元/t&#xa;全年360天合规" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377" y="1139" width="235" height="66" as="geometry" />
+          <mxGeometry x="357" y="1137" width="235" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-21" value="结论：经济性与合规性&#xa;显著帕累托权衡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="1256" width="220" height="66" as="geometry" />
@@ -65,12 +65,6 @@
         <mxCell id="PqKJCWfG-1twxdppCMA0-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-8" target="PqKJCWfG-1twxdppCMA0-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PqKJCWfG-1twxdppCMA0-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="PqKJCWfG-1twxdppCMA0-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="354" y="990" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PqKJCWfG-1twxdppCMA0-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PqKJCWfG-1twxdppCMA0-18" target="PqKJCWfG-1twxdppCMA0-19">
