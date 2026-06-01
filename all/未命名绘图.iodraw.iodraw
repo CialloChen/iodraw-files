@@ -1,0 +1,106 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="3GsVvyUkWBgHmp7r7MiW">
+    <mxGraphModel dx="2608" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-1" value="安卓客户端_用户交互层" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="350" width="480" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-2" value="-采集引擎: MediaRecorder" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="26" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-3" value="-通信组件: OkHttp(连接池/异步回调)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="52" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-4" value="-界面容器: RecyclerView(ViewHolder复用)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="78" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-5" value="-定位服务: FusedLocationProvider(GPS)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="104" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="130" width="480" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-7" value="+startRecording(): void              // 调起麦克风采集环境音频(.3gp)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="138" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-8" value="+uploadAudio(File): HTTP_Post        // 构造multipart请求上传至/predict" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="164" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-9" value="+renderResults(List&lt;Top5&gt;): void     // 解析JSON并渲染置信度卡片列表" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="190" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-10" value="+submitCorrection(Label, GPS): void  // 打包修正标签与坐标回传至/upload_correction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="216" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-11" value="+loadLocalHistory(): List&lt;Record&gt;    // 读取本地SQLite/文件历史记录" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-1">
+          <mxGeometry y="242" width="480" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-12" value="FastAPI服务端_业务计算层" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="450" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-13" value="-推理模型: EfficientFormer-L3(.pth权重)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="26" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-14" value="-预处理库: Librosa(重采样/梅尔频谱/归一化)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="52" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-15" value="-路由端点: /predict, /upload_correction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="78" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-16" value="-运行环境: GPU(CUDA)/异步事件循环(Uvicorn)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="104" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="130" width="450" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-18" value="+initializeModel(path): void         // 启动时加载模型至eval模式" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="138" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-19" value="+preprocessAudio(bytes): Tensor      // 执行22050Hz重采样/3s截取/128维频谱提取" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="164" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-20" value="+predict(Tensor): JSON               // 前向推理并Softmax返回Top-5属名与置信度" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="190" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-21" value="+parseCorrection(payload): void      // 解析回传包并生成结构化元数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="216" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-22" value="+saveToDisk(csv, audio): void        // 追加corrections.csv并归档音频文件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
+          <mxGeometry y="242" width="450" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-23" value="数据持久层_存储管理" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="420" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-24" value="-客户端存储: 本地文件系统/SharedPreferences" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="26" width="420" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-25" value="-服务端存储: corrections.csv(结构化日志)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="52" width="420" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-26" value="-音频归档: correction_audios/(独立目录)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="78" width="420" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-27" value="-元数据字段: 文件名,预测向量,修正标签,时间戳,GPS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="104" width="420" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="130" width="420" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-29" value="+persistLocal(record): void          // 客户端本地缓存识别流水" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="138" width="420" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-30" value="+appendCSV(log_entry): void          // 服务端原子追加修正记录" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="164" width="420" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-31" value="+archiveAudio(file, naming_rule): path // 服务端按规则重命名并落盘" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="190" width="420" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fiOHQaGyFRXE8FSxFxen-32" value="+exportForFineTuning(filter): Dataset  // 导出清洗后的修正数据供模型迭代" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
+          <mxGeometry y="216" width="420" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
