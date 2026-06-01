@@ -38,7 +38,7 @@
           <mxGeometry y="242" width="480" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fiOHQaGyFRXE8FSxFxen-12" value="FastAPI服务端_业务计算层" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="350" width="450" height="268" as="geometry" />
+          <mxGeometry x="-36" y="30" width="450" height="268" as="geometry" />
         </mxCell>
         <mxCell id="fiOHQaGyFRXE8FSxFxen-13" value="-推理模型: EfficientFormer-L3(.pth权重)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-12">
           <mxGeometry y="26" width="450" height="26" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry y="242" width="450" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fiOHQaGyFRXE8FSxFxen-23" value="数据持久层_存储管理" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="350" width="420" height="242" as="geometry" />
+          <mxGeometry x="-6" y="670" width="420" height="242" as="geometry" />
         </mxCell>
         <mxCell id="fiOHQaGyFRXE8FSxFxen-24" value="-客户端存储: 本地文件系统/SharedPreferences" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiOHQaGyFRXE8FSxFxen-23">
           <mxGeometry y="26" width="420" height="26" as="geometry" />
